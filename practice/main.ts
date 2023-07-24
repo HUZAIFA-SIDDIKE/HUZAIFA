@@ -225,7 +225,7 @@
 // const result=k+o
 // console.log(result)
 
-
+console.log("areeb")
 
 
 

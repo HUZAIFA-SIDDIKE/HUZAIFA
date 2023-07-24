@@ -225,8 +225,11 @@
 // const result=k+o
 // console.log(result)
 
+console.log("areeba")
 console.log("areeb")
 console.log("areeb")
+console.log("areeb")
+
 
 
 

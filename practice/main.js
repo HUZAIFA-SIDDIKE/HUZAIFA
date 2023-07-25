@@ -142,11 +142,11 @@
 // console.log(store1.getsumtwo())
 // console.log(store.getsumthree())
 // let chair=["wood ","steel","metal","almunium"]
-// let type=chair.indexOf("wood")
+// let type=chair.indexOf("almunium")
 // console.log(type)
-// let house=["metal","sand","bricks","block" ,"metal"]
+// let house=["metal","sand","metal","bricks","block" ,"metal"]
 // let type=house.lastIndexOf("metal")
-// console.log("metal")
+// console.log(type)
 // let u= 80
 // let k=90
 // let result=u+k
@@ -163,11 +163,32 @@
 // let k3=90
 // let result4=u3*k3
 // console.log(result4)
-var u5 = 80;
-var k5 = 90;
-var result5 = u5 / k5;
-console.log(result5);
-var o = "hello";
-var k = "yes";
-var result = k + o;
-console.log(result);
+// let u5= 80
+// let k5=90
+// let result5=u5/k5
+// console.log(result5)
+// const o="hello"
+// const k="yes"
+// const result=k+o
+// console.log(result)
+// console.log("areeba")
+// console.log("areeb")
+// console.log("areeb")
+// console.log("areeb")
+// let a="huzaifa"
+// let b=10
+// console.log(a+b)
+// console.log(typeof(b+a))
+var a = {
+    name: "huzaifa",
+    section: 1,
+    principle: false
+};
+a["friend"] = "saad";
+console.log(a);
+var a1 = {
+    name: "huzaifa",
+    section: 1,
+    principle: false
+};
+console.log(a1.section);

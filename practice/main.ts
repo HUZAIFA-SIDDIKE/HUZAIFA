@@ -186,12 +186,12 @@
 // console.log(store.getsumthree())
 
 // let chair=["wood ","steel","metal","almunium"]
-// let type=chair.indexOf("wood")
+// let type=chair.indexOf("almunium")
 // console.log(type)
 
-// let house=["metal","sand","bricks","block" ,"metal"]
+// let house=["metal","sand","metal","bricks","block" ,"metal"]
 // let type=house.lastIndexOf("metal")
-// console.log("metal")
+// console.log(type)
 
 
 
@@ -225,10 +225,353 @@
 // const result=k+o
 // console.log(result)
 
-console.log("areeba")
-console.log("areeb")
-console.log("areeb")
-console.log("areeb")
+// console.log("areeba")
+// console.log("areeb")
+// console.log("areeb")
+// console.log("areeb")
+
+// let a="huzaifa"
+// let b=10
+// console.log(a+b)
+// console.log(typeof(b+a))
+
+// const a={
+// name: "huzaifa",
+// section:1,
+// principle:false
+// }
+// a["friend"]="saad"
+// console.log(a)
+
+// const a1={
+//     name: "huzaifa",
+//     section:1,
+//     principle:false,
+//     students:["ibrahim","salman","sabih"]
+//     }
+//     console.log(a1.section)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

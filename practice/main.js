@@ -179,16 +179,60 @@
 // let b=10
 // console.log(a+b)
 // console.log(typeof(b+a))
-var a = {
-    name: "huzaifa",
-    section: 1,
-    principle: false
-};
-a["friend"] = "saad";
-console.log(a);
-var a1 = {
-    name: "huzaifa",
-    section: 1,
-    principle: false
-};
-console.log(a1.section);
+// const a={
+// name: "huzaifa",
+// section:1,
+// principle:false
+// }
+// a["friend"]="saad"
+// console.log(a)
+// const a1={
+//     name: "huzaifa",
+//     section:1,
+//     principle:false,
+//     students:["ibrahim","salman","sabih"]
+//     }
+//     console.log(a1.section)
+// // Arthematic operations
+var a = 10;
+var b = 4;
+console.log("a+b", a + b);
+console.log("a-b=", a - b);
+console.log("a/b=", a / b);
+console.log("a**b=", Math.pow(a, b));
+console.log("a&b=", a & b);
+console.log("++a=", ++a);
+console.log("a++=", a++);
+console.log("--a=", --a);
+console.log("a--=", a--);
+console.log("a=", a);
+console.log("a--=", a--);
+console.log("b", b);
+// // Assignment operators
+// let assignment=1
+// assignment+=10
+// console.log("a is now",assignment)
+// assignment-=10
+// console.log("a is now",assignment)
+// assignment/=10
+// console.log("a is now",assignment)
+// assignment*=10
+// console.log("a is now",assignment)
+// assignment**=10
+// console.log("a is now",assignment)
+// assignment%=10
+// console.log("a is now",assignment)
+// let a=10
+// let b=5
+// a+=b
+// console.log("a is now",a)
+// a-=b
+// console.log("a is now",a)
+// a/=b
+// console.log("a is now",a)
+// a*=b
+// console.log("a is now",a)
+// a**=b
+// console.log("a is now",a)
+// a%=b
+// console.log("a is now",a)

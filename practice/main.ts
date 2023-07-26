@@ -250,8 +250,65 @@
 //     students:["ibrahim","salman","sabih"]
 //     }
 //     console.log(a1.section)
-    
 
+
+// // Arthematic operations
+
+let a=10
+let b=4
+console.log("a+b",a+b)
+console.log("a-b=",a-b)
+console.log("a/b=",a/b)
+console.log("a**b=",a**b)
+console.log("a&b=",a&b)
+console.log("++a=",++a)
+console.log("a++=",a++)
+console.log("--a=",--a)
+console.log("a--=",a--)
+console.log("a=",a)
+console.log("a--=",a--)
+
+
+// // Assignment operators
+
+// let assignment=1
+
+// assignment+=10
+// console.log("a is now",assignment)
+
+// assignment-=10
+// console.log("a is now",assignment)
+
+// assignment/=10
+// console.log("a is now",assignment)
+
+// assignment*=10
+// console.log("a is now",assignment)
+
+// assignment**=10
+// console.log("a is now",assignment)
+
+// assignment%=10
+// console.log("a is now",assignment)
+
+
+
+
+// let a=10
+// let b=5
+
+// a+=b
+// console.log("a is now",a)
+// a-=b
+// console.log("a is now",a)
+// a/=b
+// console.log("a is now",a)
+// a*=b
+// console.log("a is now",a)
+// a**=b
+// console.log("a is now",a)
+// a%=b
+// console.log("a is now",a)
 
 
 

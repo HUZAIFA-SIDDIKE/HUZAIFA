@@ -310,7 +310,7 @@
 
 // let a=10
 // let b=4
-// console.log("a%b=",a&b)
+// console.log("a%b=",a%b)
 // console.log("a*b=",a*b)
 // console.log("--a=",--a)
 // console.log("a**b=",a**b)
@@ -333,34 +333,67 @@
 
 // comparision operations
 
-let comp1=10
-let comp2=15
-console.log(comp1===comp2)
-console.log(comp1>=comp2)
-console.log(comp1<=comp2)
-console.log(comp1<comp2)
-console.log(comp1>comp2)
-console.log(comp1!=comp2)
-console.log(comp1==comp2)
+// let comp1=10
+// let comp2=15
+// console.log(comp1===comp2)
+// console.log(comp1>=comp2)
+// console.log(comp1<=comp2)
+// console.log(comp1<comp2)
+// console.log(comp1>comp2)
+// console.log(comp1!=comp2)
+// console.log(comp1==comp2)
 
 
+// Assignment Operators
+
+// let a=100
+// let b=50
+
+// console.log("a+b=",a+b)
+// console.log("a-b=",a-b)
+// console.log("a/b=",a/b)
+// console.log("a*b=",a*b)
+// console.log("a%b=",a%b)
+// console.log("a**b=",a**b)
 
 
+// Comparision Operators
 
+// let a=1000
+// let i=700
 
+// console.log(a==i)
+// console.log(a===i)
+// console.log(a!=i)
+// console.log(a<=i)
+// console.log(a>=i)
+// console.log(a>i)
+// console.log(a<i)
 
+// Logical Operators
 
+// let a=48
+// let i=50
+// console.log(a<i && a<=i)
+// console.log(a>i ||a<i)
+// console.log(a!=i)
 
+// Arthematic Operations
 
-
-
-
-
-
-
-
-
-
+let h=1000
+let u=300
+console.log("h**u=",h**u)
+console.log("h*u=",h*u)
+console.log("h+u=",h+u)
+console.log("h-u=",h-u)
+console.log("h/u=",h/u)
+console.log("h&u=",h&u)
+console.log("h%u=",h%u)
+console.log("h=",h)
+console.log("h++=",h++)
+console.log("h--=",h--)
+console.log("++h=",++h)
+console.log("--h=",--h)
 
 
 

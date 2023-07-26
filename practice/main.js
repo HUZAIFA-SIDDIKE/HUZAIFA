@@ -235,16 +235,32 @@
 // console.log("a is now",a)
 // a%=b
 // console.log("a is now",a)
-var a = 10;
-var b = 4;
-console.log("a%b=", a & b);
-console.log("a*b=", a * b);
-console.log("--a=", --a);
-console.log("a**b=", Math.pow(a, b));
-console.log("a--=", a--);
-console.log("a++=", a++);
-console.log("a&b=", a & b);
-console.log("a/b=", a / b);
-console.log("a=", a);
-console.log("a-b=", a - b);
-console.log("a+b=", a + b);
+// let a=10
+// let b=4
+// console.log("a%b=",a&b)
+// console.log("a*b=",a*b)
+// console.log("--a=",--a)
+// console.log("a**b=",a**b)
+// console.log("a--=",a--)
+// console.log("a++=",a++)
+// console.log("a&b=",a&b)
+// console.log("a/b=",a/b)
+// console.log("a=",a)
+// console.log("a-b=",a-b)
+// console.log("a+b=",a+b)
+// logical operators
+// let a=1
+// let b=20
+// console.log(a>=b && a==1 )
+// console.log(a<b || a>b)
+// console.log(!(a=b))
+// comparision operations
+var comp1 = 10;
+var comp2 = 15;
+console.log(comp1 === comp2);
+console.log(comp1 >= comp2);
+console.log(comp1 <= comp2);
+console.log(comp1 < comp2);
+console.log(comp1 > comp2);
+console.log(comp1 != comp2);
+console.log(comp1 == comp2);

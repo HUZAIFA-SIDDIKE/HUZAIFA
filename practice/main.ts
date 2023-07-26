@@ -308,26 +308,40 @@
 // console.log("a is now",a)
 
 
+// let a=10
+// let b=4
+// console.log("a%b=",a&b)
+// console.log("a*b=",a*b)
+// console.log("--a=",--a)
+// console.log("a**b=",a**b)
+// console.log("a--=",a--)
+// console.log("a++=",a++)
+// console.log("a&b=",a&b)
+// console.log("a/b=",a/b)
+// console.log("a=",a)
+// console.log("a-b=",a-b)
+// console.log("a+b=",a+b)
 
 
-let a=10
-let b=4
-console.log("a%b=",a&b)
-console.log("a*b=",a*b)
-console.log("--a=",--a)
-console.log("a**b=",a**b)
-console.log("a--=",a--)
-console.log("a++=",a++)
-console.log("a&b=",a&b)
-console.log("a/b=",a/b)
-console.log("a=",a)
-console.log("a-b=",a-b)
-console.log("a+b=",a+b)
+// logical operators
 
+// let a=1
+// let b=20
+// console.log(a>=b && a==1 )
+// console.log(a<b || a>b)
+// console.log(!(a=b))
 
+// comparision operations
 
-
-
+let comp1=10
+let comp2=15
+console.log(comp1===comp2)
+console.log(comp1>=comp2)
+console.log(comp1<=comp2)
+console.log(comp1<comp2)
+console.log(comp1>comp2)
+console.log(comp1!=comp2)
+console.log(comp1==comp2)
 
 
 

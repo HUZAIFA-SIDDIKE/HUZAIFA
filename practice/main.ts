@@ -252,22 +252,21 @@
 //     console.log(a1.section)
 
 
-// // Arthematic operations
+// // // Arthematic operations
 
-let a=10
-let b=4
-console.log("a+b",a+b)
-console.log("a-b=",a-b)
-console.log("a/b=",a/b)
-console.log("a**b=",a**b)
-console.log("a&b=",a&b)
-console.log("++a=",++a)
-console.log("a++=",a++)
-console.log("--a=",--a)
-console.log("a--=",a--)
-console.log("a=",a)
-console.log("a--=",a--)
-
+// let a=10
+// let b=4
+// console.log("a+b",a+b)
+// console.log("a-b=",a-b)
+// console.log("a/b=",a/b)
+// console.log("a**b=",a**b)
+// console.log("a&b=",a&b)
+// console.log("++a=",++a)
+// console.log("a++=",a++)
+// console.log("--a=",--a)
+// console.log("a--=",a--)
+// console.log("a=",a)
+// console.log("a--=",a--)
 
 // // Assignment operators
 
@@ -290,8 +289,6 @@ console.log("a--=",a--)
 
 // assignment%=10
 // console.log("a is now",assignment)
-
-
 
 
 // let a=10

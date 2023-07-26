@@ -193,21 +193,20 @@
 //     students:["ibrahim","salman","sabih"]
 //     }
 //     console.log(a1.section)
-// // Arthematic operations
-var a = 10;
-var b = 4;
-console.log("a+b", a + b);
-console.log("a-b=", a - b);
-console.log("a/b=", a / b);
-console.log("a**b=", Math.pow(a, b));
-console.log("a&b=", a & b);
-console.log("++a=", ++a);
-console.log("a++=", a++);
-console.log("--a=", --a);
-console.log("a--=", a--);
-console.log("a=", a);
-console.log("a--=", a--);
-console.log("b", b);
+// // // Arthematic operations
+// let a=10
+// let b=4
+// console.log("a+b",a+b)
+// console.log("a-b=",a-b)
+// console.log("a/b=",a/b)
+// console.log("a**b=",a**b)
+// console.log("a&b=",a&b)
+// console.log("++a=",++a)
+// console.log("a++=",a++)
+// console.log("--a=",--a)
+// console.log("a--=",a--)
+// console.log("a=",a)
+// console.log("a--=",a--)
 // // Assignment operators
 // let assignment=1
 // assignment+=10
@@ -236,3 +235,16 @@ console.log("b", b);
 // console.log("a is now",a)
 // a%=b
 // console.log("a is now",a)
+var a = 10;
+var b = 4;
+console.log("a%b=", a & b);
+console.log("a*b=", a * b);
+console.log("--a=", --a);
+console.log("a**b=", Math.pow(a, b));
+console.log("a--=", a--);
+console.log("a++=", a++);
+console.log("a&b=", a & b);
+console.log("a/b=", a / b);
+console.log("a=", a);
+console.log("a-b=", a - b);
+console.log("a+b=", a + b);

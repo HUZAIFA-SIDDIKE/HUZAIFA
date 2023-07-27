@@ -641,7 +641,12 @@ console.log("1+ avg=",1+(a*b)/2)
 console.log("1+ avg=",1+(a-b)/2)
 
 
-
+let brother=()=>{
+    console.log("hello huzaifa where are u")
+    return "i am flying kite on roof"
+}
+let saad="hi"
+console.log(saad)
 
 
 

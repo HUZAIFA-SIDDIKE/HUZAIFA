@@ -388,9 +388,61 @@
 // console.log("one plus average of a & b is=",onePlusAvg ,1+(b+c)/2)
 // console.log("one plus average of a & b is=",onePlusAvg,1+(a+c)/2)
 // console.log (sum(9,7))
-var hello = function () {
-    console.log("hello i am fine");
-    return "hi";
-};
-var u = "hello";
-console.log(u);
+// const  hello=()=>{
+// console.log("hello i am fine")
+// return "hi"
+// }
+// let u="hello"
+// console.log(u)
+// const hello=()=>{
+//     console.log("hi how are you")
+//     return "hello"
+// }
+// let i="hi"
+// console.log(i)
+// let saadi=()=>{
+//     console.log("hnn saad kesay ho")
+//     return "hnn thek tum sunao"
+// }
+// let saad="alhumdulelah"
+// console.log(saad)
+// var friends=()=>{
+//     console.log("hi bro")
+//     return "fine"
+// }
+// var friend="ok bro"
+// console.log(friend)
+// const sum=(p,q)=>{
+//     return p * q
+// }
+// console.log (sum(100,50))
+// const car=(c1,c2)=>{
+//     return c1 - c2
+// }
+// console.log (car(100,50))
+// let  h=(h1,h2)=>{
+//     return h1 +h2
+// }
+// console.log(h(100,600))
+// let  h=(h1,h2)=>{
+//     return h1-h2
+// }
+// console.log(h(100,600))
+// let  h=(h1,h2)=>{
+//     return h1*h2
+// }
+// console.log(h(100,600))
+// let  h=(h1,h2)=>{
+//         return h1/h2
+//     }
+//     console.log(h(100,600))
+function onePlusAvg(x, y) {
+    console.log("done");
+    return 1 + (x + y) / 2;
+}
+var a = 1;
+var b = 2;
+var c = 3;
+console.log("one plus average of a & b is=", onePlusAvg, 1 + (a + b) / 2);
+console.log("one plus average of a & b is=", onePlusAvg, 1 + (b + c) / 2);
+console.log("one plus average of a & b is=", onePlusAvg, 1 + (a + c) / 2);

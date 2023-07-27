@@ -602,35 +602,43 @@
 // console.log("1 + avg=",one1PlusAg ,1+(b+c)/2)
 // console.log("1 + avg =",one1PlusAg,1+(a+c)/2)
 
-const sum=(p,q)=>{
-    return p * q
+// const sum=(p,q)=>{
+//     return p * q
+// }
+// console.log (sum(100,50))
+
+// const sum0=(p,q)=>{
+//     return p + q
+// }
+// console.log (sum(100,50))
+
+// const sum1=(p,q)=>{
+//     return p - q
+// }
+// console.log (sum(100,50))
+
+
+// const sum9=(p,q)=>{
+//     return p / q
+// }
+// console.log (sum(100,50))
+
+// const sum10=(p,q)=>{
+//     return p * q
+// }
+// console.log (sum(100,50))
+
+function Oneplusavg(a,b){
+    console.log("done")
+    return 1+(a+b)/2
 }
-console.log (sum(100,50))
 
-const sum0=(p,q)=>{
-    return p + q
-}
-console.log (sum(100,50))
-
-const sum1=(p,q)=>{
-    return p - q
-}
-console.log (sum(100,50))
-
-
-const sum9=(p,q)=>{
-    return p / q
-}
-console.log (sum(100,50))
-
-const sum10=(p,q)=>{
-    return p * q
-}
-console.log (sum(100,50))
-
-
-
-
+let a=600
+let b=600
+console.log("1+ avg=",1+(a+b)/2)
+console.log("1+ avg=",1+(a/b)/2)
+console.log("1+ avg=",1+(a*b)/2)
+console.log("1+ avg=",1+(a-b)/2)
 
 
 

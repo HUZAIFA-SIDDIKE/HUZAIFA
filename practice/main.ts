@@ -590,6 +590,19 @@
 
 
 
+function one1PlusAg(x,y){
+    console.log("done")
+return 1 +(x+y)/2
+}
+
+let a =1
+let b =2
+let c=3
+console.log("1 + avg=",one1PlusAg, 1+(a+b)/2)
+console.log("1 + avg=",one1PlusAg ,1+(b+c)/2)
+console.log("1 + avg =",one1PlusAg,1+(a+c)/2)
+
+
 
 
 

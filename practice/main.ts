@@ -628,35 +628,52 @@
 // }
 // console.log (sum(100,50))
 
-function Oneplusavg(a,b){
-    console.log("done")
-    return 1+(a+b)/2
+// function Oneplusavg(a,b){
+//     console.log("done")
+//     return 1+(a+b)/2
+// }
+
+// let a=600
+// let b=600
+// console.log("1+ avg=",1+(a+b)/2)
+// console.log("1+ avg=",1+(a/b)/2)
+// console.log("1+ avg=",1+(a*b)/2)
+// console.log("1+ avg=",1+(a-b)/2)
+
+
+// let brother=()=>{
+//     console.log("hello huzaifa where are u")
+//     return "i am flying kite on roof"
+// }
+// let saad="hi"
+// console.log(saad)
+
+// let comparision_car=(p1,p2)=>{
+//     return p1 === p2
+// }
+// console.log( comparision_car(100,100))
+
+// function cube(n1,n2){
+// return n1**n2
+// }
+// console.log(cube(100,50)) 
+
+// function cube(n1){
+// return n1*2*2
+// }
+// let odkj=(2)
+// console.log("odkj:", odkj) 
+
+let number=2
+
+if(number % 2 == 0) {
+    console.log("The number is even.");
 }
 
-let a=600
-let b=600
-console.log("1+ avg=",1+(a+b)/2)
-console.log("1+ avg=",1+(a/b)/2)
-console.log("1+ avg=",1+(a*b)/2)
-console.log("1+ avg=",1+(a-b)/2)
 
-
-let brother=()=>{
-    console.log("hello huzaifa where are u")
-    return "i am flying kite on roof"
+else {
+    console.log("The number is odd.");
 }
-let saad="hi"
-console.log(saad)
-
-
-
-
-
-
-
-
-
-
 
 
 

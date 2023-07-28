@@ -88,6 +88,13 @@
 //     acesories:["window","seats","mirror"]
 // }
 // console.log(car)
+// var Areeb = {
+//     age: 26, // number
+//     car: "aqua", //string
+//     height: 5.1, //float
+//     brothers: ["husnain", "huzaifa", "saad"] //array of strings
+// }
+// console.log(Areeb.brothers)
 // let c ={
 //     company: "toyata",
 //     cname: "aqua",
@@ -436,13 +443,72 @@
 //         return h1/h2
 //     }
 //     console.log(h(100,600))
-function onePlusAvg(x, y) {
-    console.log("done");
-    return 1 + (x + y) / 2;
+// function onePlusAg(x,y){
+//     console.log("done")
+// return 1 +(x+y)/2
+// }
+// let a =1
+// let b =2
+// let c=3
+// console.log("one plus average of a & b is=",onePlusAg, 1+(a+b)/2)
+// console.log("one plus average of a & b is=",onePlusAg ,1+(b+c)/2)
+// console.log("one plus average of a & b is=",onePlusAg,1+(a+c)/2)
+// function one1PlusAg(x,y){
+//     console.log("done")
+// return 1 +(x+y)/2
+// }
+// let a =1
+// let b =2
+// let c=3
+// console.log("1 + avg=",one1PlusAg, 1+(a+b)/2)
+// console.log("1 + avg=",one1PlusAg ,1+(b+c)/2)
+// console.log("1 + avg =",one1PlusAg,1+(a+c)/2)
+// const sum=(p,q)=>{
+//     return p * q
+// }
+// console.log (sum(100,50))
+// const sum0=(p,q)=>{
+//     return p + q
+// }
+// console.log (sum(100,50))
+// const sum1=(p,q)=>{
+//     return p - q
+// }
+// console.log (sum(100,50))
+// const sum9=(p,q)=>{
+//     return p / q
+// }
+// console.log (sum(100,50))
+// const sum10=(p,q)=>{
+//     return p * q
+// }
+// console.log (sum(100,50))
+// function Oneplusavg(a,b){
+//     console.log("done")
+//     return 1+(a+b)/2
+// }
+// let a=600
+// let b=600
+// console.log("1+ avg=",1+(a+b)/2)
+// console.log("1+ avg=",1+(a/b)/2)
+// console.log("1+ avg=",1+(a*b)/2)
+// console.log("1+ avg=",1+(a-b)/2)
+// let brother=()=>{
+//     console.log("hello huzaifa where are u")
+//     return "i am flying kite on roof"
+// }
+// let saad="hi"
+// console.log(saad)
+// let comparision_car=(p1,p2)=>{
+//     return p1 === p2
+// }
+// console.log( comparision_car(100,100))
+// function cube(n1,n2){
+// return n1**n2
+// }
+// console.log(cube(100,50)) 
+function cube(n1) {
+    return n1 * 2 * 2;
 }
-var a = 1;
-var b = 2;
-var c = 3;
-console.log("one plus average of a & b is=", onePlusAvg, 1 + (a + b) / 2);
-console.log("one plus average of a & b is=", onePlusAvg, 1 + (b + c) / 2);
-console.log("one plus average of a & b is=", onePlusAvg, 1 + (a + c) / 2);
+var odkj = (2);
+console.log("odkj:", odkj);

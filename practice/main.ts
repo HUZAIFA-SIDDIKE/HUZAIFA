@@ -663,20 +663,413 @@
 // }
 // let odkj=(2)
 // console.log("odkj:", odkj) 
-
-let number=2
-
-if(number % 2 == 0) {
-    console.log("The number is even.");
-}
+// log("The number is odd.");
+// }
 
 
-else {
-    console.log("The number is odd.");
-}
+// // Arthematic operations
+
+// let a=10
+// let b=4
+// console.log("a+b",a+b)
+// console.log("a-b=",a-b)
+// console.log("a/b=",a/b)
+// console.log("a**b=",a**b)
+// console.log("a&b=",a&b)
+// console.log("++a=",++a)
+// console.log("a++=",a++)
+// console.log("--a=",--a)
+// console.log("a--=",a--)
+// console.log("a=",a)
+// console.log("a--=",a--)
+
+// // Assignment operators
+
+// let assignment=1
+
+// assignment+=10
+// console.log("a is now",assignment)
+
+// assignment-=10
+// console.log("a is now",assignment)
+
+// assignment/=10
+// console.log("a is now",assignment)
+
+// assignment*=10
+// console.log("a is now",assignment)
+
+// assignment**=10
+// console.log("a is now",assignment)
+
+// assignment%=10
+// console.log("a is now",assignment)
+
+
+// let a=10
+// let b=5
+
+// a+=b
+// console.log("a is now",a)
+// a-=b
+// console.log("a is now",a)
+// a/=b
+// console.log("a is now",a)
+// a*=b
+// console.log("a is now",a)
+// a**=b
+// console.log("a is now",a)
+// a%=b
+// console.log("a is now",a)
+
+
+// let a=10
+// let b=4
+// console.log("a%b=",a%b)
+// console.log("a*b=",a*b)
+// console.log("--a=",--a)
+// console.log("a**b=",a**b)
+// console.log("a--=",a--)
+// console.log("a++=",a++)
+// console.log("a&b=",a&b)
+// console.log("a/b=",a/b)
+// console.log("a=",a)
+// console.log("a-b=",a-b)
+// console.log("a+b=",a+b)
+
+
+// logical operators
+
+// let a=1
+// let b=20
+// console.log(a>=b && a==1 )
+// console.log(a<b || a>b)
+// console.log(!(a=b))
+
+// comparision operations
+
+// let comp1=10
+// let comp2=15
+// console.log(comp1===comp2)
+// console.log(comp1>=comp2)
+// console.log(comp1<=comp2)
+// console.log(comp1<comp2)
+// console.log(comp1>comp2)
+// console.log(comp1!=comp2)
+// console.log(comp1==comp2)
+
+
+// Assignment Operators
+
+// let a=100
+// let b=50
+
+// console.log("a+b=",a+b)
+// console.log("a-b=",a-b)
+// console.log("a/b=",a/b)
+// console.log("a*b=",a*b)
+// console.log("a%b=",a%b)
+// console.log("a**b=",a**b)
+
+
+// Comparision Operators
+
+// let a=1000
+// let i=700
+
+// console.log(a==i)
+// console.log(a===i)
+// console.log(a!=i)
+// console.log(a<=i)
+// console.log(a>=i)
+// console.log(a>i)
+// console.log(a<i)
+
+// Logical Operators
+
+// let a=48
+// let i=50
+// console.log(a<i && a<=i)
+// console.log(a>i ||a<i)
+// console.log(a!=i)
+
+// Arthematic Operations
+
+// let h=1000
+// let u=300
+// console.log("h**u=",h**u)
+// console.log("h*u=",h*u)
+// console.log("h+u=",h+u)
+// console.log("h-u=",h-u)
+// console.log("h/u=",h/u)
+// console.log("h&u=",h&u)
+// console.log("h%u=",h%u)
+// console.log("h=",h)
+// console.log("h++=",h++)
+// console.log("h--=",h--)
+// console.log("++h=",++h)
+// console.log("--h=",--h)
+
+
+// logical Operators
+
+// let x=100000000000000
+// let y=300000
+// console.log(x>=y && x>y)
+// console.log(x==y || x>y)
+// console.log(!(x==y))
 
 
 
+
+// let i=100
+// let w=30
+// console.log(i>w && i>=w)
+// console.log(i==w || i>w)
+// console.log(!(i==w))
+
+
+// Comparision operators
+
+// let a = 1000
+// let b=10
+// console.log(a==b)
+// console.log(a===b)
+// console.log(a>=b)
+// console.log(a<=b)
+// console.log(a<b)
+// console.log(a>b)
+// console.log(a!=b)
+
+
+// arthemathic operators
+
+// let q=1000
+// let o=550
+// console.log("q+o=",q+o)
+// console.log("q-o=",q-o)
+// console.log("q&o=",q&o)
+// console.log("q/o=",q/o)
+// console.log("q*o=",q*o)
+// console.log("q**o=",q**o)
+// console.log("q++",q++)
+// console.log("q--",q--)
+// console.log("++q",++q)
+// console.log("--q",--q)
+// console.log("q%o",q%o)
+// console.log("q=",q)
+
+// let a =prompt("hey whats ure age")
+// a =Number.parseInt(a)
+// console.log(typeof a)
+
+// let ai=prompt("hey whats ure age")
+// console.log(typeof ai)
+
+// let a =1
+// let b =2
+// let c=3
+// console.log("one plus average of a & b is",1+(a+b)/2)
+// console.log("done")
+// console.log("one plus average of a & b is",1+(b+c)/2)
+// console.log("done")
+// console.log("one plus average of a & b is",1+(a+c)/2)
+// console.log("done")
+
+// function onePlusAvg(x,y){
+//     console.log("done")
+// return 1 +(x+y)/2
+// }
+
+// let a =1
+// let b =2
+// let c=3
+// console.log("one plus average of a & b is=",onePlusAvg, 1+(a+b)/2)
+
+// console.log("one plus average of a & b is=",onePlusAvg ,1+(b+c)/2)
+
+// console.log("one plus average of a & b is=",onePlusAvg,1+(a+c)/2)
+
+
+// function onePlusAvg(x,y){
+//     console.log("done")
+// return Math.round (1 +(x+y)/2)
+// }
+
+// let a =1
+// let b =2
+// let c=3
+// console.log("one plus average of a & b is=",onePlusAvg, 1+(a+b)/2)
+
+// console.log("one plus average of a & b is=",onePlusAvg ,1+(b+c)/2)
+
+// console.log("one plus average of a & b is=",onePlusAvg,1+(a+c)/2)
+
+
+// function onePlusAvg(x,y){
+//     console.log("done")
+// return 1 +(x+y)/2
+// }
+// const sum=(p,q)=>{
+//     return p +q
+// }
+// let a =1
+// let b =2
+// let c=3
+// console.log("one plus average of a & b is=",onePlusAvg, 1+(a+b)/2)
+// console.log("one plus average of a & b is=",onePlusAvg ,1+(b+c)/2)
+// console.log("one plus average of a & b is=",onePlusAvg,1+(a+c)/2)
+// console.log (sum(9,7))
+
+
+// const  hello=()=>{
+// console.log("hello i am fine")
+// return "hi"
+// }
+// let u="hello"
+// console.log(u)
+
+// const hello=()=>{
+//     console.log("hi how are you")
+//     return "hello"
+// }
+// let i="hi"
+// console.log(i)
+
+// let saadi=()=>{
+//     console.log("hnn saad kesay ho")
+//     return "hnn thek tum sunao"
+// }
+// let saad="alhumdulelah"
+// console.log(saad)
+
+// var friends=()=>{
+//     console.log("hi bro")
+//     return "fine"
+// }
+// var friend="ok bro"
+// console.log(friend)
+
+// const sum=(p,q)=>{
+//     return p * q
+// }
+// console.log (sum(100,50))
+
+// const car=(c1,c2)=>{
+//     return c1 - c2
+// }
+// console.log (car(100,50))
+
+// let  h=(h1,h2)=>{
+//     return h1 +h2
+// }
+// console.log(h(100,600))
+
+// let  h=(h1,h2)=>{
+    //     return h1-h2
+    // }
+    // console.log(h(100,600))
+
+    // let  h=(h1,h2)=>{
+        //     return h1*h2
+        // }
+        // console.log(h(100,600))
+
+        // let  h=(h1,h2)=>{
+        //         return h1/h2
+        //     }
+        //     console.log(h(100,600))
+
+
+// function onePlusAg(x,y){
+//     console.log("done")
+// return 1 +(x+y)/2
+// }
+
+// let a =1
+// let b =2
+// let c=3
+// console.log("one plus average of a & b is=",onePlusAg, 1+(a+b)/2)
+// console.log("one plus average of a & b is=",onePlusAg ,1+(b+c)/2)
+// console.log("one plus average of a & b is=",onePlusAg,1+(a+c)/2)
+
+
+
+// function one1PlusAg(x,y){
+//     console.log("done")
+// return 1 +(x+y)/2
+// }
+
+// let a =1
+// let b =2
+// let c=3
+// console.log("1 + avg=",one1PlusAg, 1+(a+b)/2)
+// console.log("1 + avg=",one1PlusAg ,1+(b+c)/2)
+// console.log("1 + avg =",one1PlusAg,1+(a+c)/2)
+
+// const sum=(p,q)=>{
+//     return p * q
+// }
+// console.log (sum(100,50))
+
+// const sum0=(p,q)=>{
+//     return p + q
+// }
+// console.log (sum(100,50))
+
+// const sum1=(p,q)=>{
+//     return p - q
+// }
+// console.log (sum(100,50))
+
+
+// const sum9=(p,q)=>{
+//     return p / q
+// }
+// console.log (sum(100,50))
+
+// const sum10=(p,q)=>{
+//     return p * q
+// }
+// console.log (sum(100,50))
+
+// function Oneplusavg(a,b){
+//     console.log("done")
+//     return 1+(a+b)/2
+// }
+
+// let a=600
+// let b=600
+// console.log("1+ avg=",1+(a+b)/2)
+// console.log("1+ avg=",1+(a/b)/2)
+// console.log("1+ avg=",1+(a*b)/2)
+// console.log("1+ avg=",1+(a-b)/2)
+
+
+// let brother=()=>{
+//     console.log("hello huzaifa where are u")
+//     return "i am flying kite on roof"
+// }
+// let saad="hi"
+// console.log(saad)
+
+// let comparision_car=(p1,p2)=>{
+//     return p1 === p2
+// }
+// console.log( comparision_car(100,100))
+
+// function cube(n1,n2){
+// return n1**n2
+// }
+// console.log(cube(100,50)) 
+
+// function cube(n1){
+// return n1*2*2
+// }
+// let odkj=(2)
+// console.log("odkj:", odkj) 
+// log("The number is odd.");
+// 
 
 
 

@@ -1,7 +1,7 @@
-// function greet(firstname:string, age: number){
-//     console.log(`hello+ ${firstname} + "your age is ${age}`);
-// }
-// greet("huzaifa", 16);
+function greet(firstname, age) {
+    console.log("hello+ ".concat(firstname, " + your age is ").concat(age));
+}
+greet("huzaifa", 16);
 //  greet("saad", 14);
 // function calc(kg:number){
 //     let result=kg/7
@@ -82,24 +82,20 @@
 // }
 // let soldcalculator=evenodd(4)
 // console.log(soldcalculator)
-// let cousins_brothers=["huzaifa","sufiyan","sabih","saad","romaisa","ali"]
-// cousins_brothers.push
-// ()
-// // cousins_brothers.unshift()
-// // cousins_brothers.shift()
-// // cousins_brothers.shift()
-// // cousins_brothers.unshift()
-// // console.log(cousins_brothers)
+var cousins_brothers = ["huzaifa", "sufiyan", "sabih", "saad", "romaisa", "ali"];
+cousins_brothers.unshift("hussain");
+// let d=cousins_brothers.shift()
+// console.log(c,d)
+console.log(cousins_brothers);
 // // cousins_brothers.push()
 // // cousins_brothers.pop()
 // // cousins_brothers.push()
 // // cousins_brothers.push()
 // // console.log(cousins_brothers)
-// cousins_brothers.splice()
-// cousins_brothers.slice()
-// cousins_brothers.slice()
-// cousins_brothers.splice()
-// console.log(cousins_brothers)
-for (var i = 11; i > 9; i++) {
-    console.log("hello world");
-}
+// let cousins_brothers=["huzaifa","sufiyan","sabih","saad","romaisa","ali"]
+// let pn=cousins_brothers.slice(0,6)
+// let ol=cousins_brothers.splice(1,3)
+// console.log(ol)
+// for (let i=1;i<10;i++){
+// console.log("hello world")
+// }

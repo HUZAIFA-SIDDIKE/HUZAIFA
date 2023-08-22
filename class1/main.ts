@@ -1,5 +1,7 @@
-console.log("Hello World")
-var Frame = "Hello Huzaifa";
+// let name1 = "hello World";
+// console.log(name1);
+//console.log("Hello World")
+// var Frame = "Hello Huzaifa";
 // console.log(Frame)
 
 // var Firstname:string="huzaifa";
